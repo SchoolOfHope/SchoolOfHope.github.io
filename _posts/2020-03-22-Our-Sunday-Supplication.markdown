@@ -4,8 +4,8 @@ title:  "Our Sunday Supplication"
 date:   2020-03-22 09:00:00
 categories: Sunday
 tags: featured
-image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
-image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
+image: /assets/article_images/2020-03-22-Our-Sunday-Supplication/shepherd.JPG
+image2: /assets/article_images/2020-03-22-Our-Sunday-Supplication/shepherd-mobile.JPG
 ---
 <h1>Our Sunday Supplication</h1>
 
