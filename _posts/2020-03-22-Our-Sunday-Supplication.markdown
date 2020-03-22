@@ -1,46 +1,32 @@
 ---
 layout: post
-title:  "Mediator Features"
-date:   2014-11-30 14:34:25
-categories: mediator feature
+title:  "Our Sunday Supplication"
+date:   2020-03-22 09:00:00
+categories: Sunday
 tags: featured
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
 ---
+<h1>Our Sunday Supplication</h1>
 
-#Our Sunday Supplication
+<h2>Sunday, March 22, 2020</h2>
+<h3>The Fourth Sunday of Lent</3>
 
-##Sunday, March 22, 2020
-##The Fourth Sunday of Lent
+<p>Holy Mass is at the very core of our worship as a Catholic community. Nothing can ever be substituted for the celebration of the Eucharist. But in this exceptional time of difficulty for our communities, our nation, and even the whole world, precautions have been made to limit the exponential growth of COVID-19, including the suspension of public Masses in the Archdiocese. So, if we cannot attend Mass on Sundays, how then are we, as a Church, to pray? This resource, <b>Our Sunday Supplication</b>, is a recommended prayer of the Archdiocese. Unlike Mass, this order of prayer can be offered by individuals and families, without the presence of a priest, and engages us in our Sunday celebration of the Word of God. We can pray this prayer in our homes—the “domestic churches” which help build up the Body of Christ on earth—and thus be connected to the entire Church at prayer. During this time of prayer, we include the opportunity to make a Spiritual Communion, since we are presently unable to receive Holy Communion. Making a Spiritual Communion is a worthy practice,
+recommended by innumerable saints throughout the ages, which unites our whole selves to God and his Church. For, despite not being able to celebrate Mass together, this is certainly not a time to abandon the praise and supplication of almighty God, for he never abandons us! Now is the time to love and serve the Lord as best we can in our limited capacities.</p>
 
-Holy Mass is at the very core of our worship as a Catholic community. Nothing can ever be
-substituted for the celebration of the Eucharist. But in this exceptional time of difficulty for our
-communities, our nation, and even the whole world, precautions have been made to limit the exponential
-growth of COVID-19, including the suspension of public Masses in the Archdiocese.
-So, if we cannot attend Mass on Sundays, how then are we, as a Church, to pray? This resource,
-Our Sunday Supplication, is a recommended prayer of the Archdiocese. Unlike Mass, this order of prayer
-can be offered by individuals and families, without the presence of a priest, and engages us in our Sunday
-celebration of the Word of God. We can pray this prayer in our homes—the “domestic churches” which help
-build up the Body of Christ on earth—and thus be connected to the entire Church at prayer.
-During this time of prayer, we include the opportunity to make a Spiritual Communion, since we
-are presently unable to receive Holy Communion. Making a Spiritual Communion is a worthy practice,
-recommended by innumerable saints throughout the ages, which unites our whole selves to God and his
-Church. For, despite not being able to celebrate Mass together, this is certainly not a time to abandon the
-praise and supplication of almighty God, for he never abandons us! Now is the time to love and serve the
-Lord as best we can in our limited capacities
+<h2>Order of Prayer</h2>
+<p><i>Taken from the Mass and the Liturgy of the Hours</i></p>
 
-#Order of Prayer
-Taken from the Mass and the Liturgy of the Hours
+<h3>Introduction</3>
+<p><b>Leader:</b> God, ✠ come to my assistance.
+<b>Response:</b> Lord, make haste to help me.
 
-##Introduction
-Leader: God, ✠ come to my assistance.
-Response: Lord, make haste to help me.
+<b>Leader:</b> Glory be to the Father, and to the Son, and to the Holy Spirit:
+<b>Response:</b> as it was in the beginning, is now, and ever shall be, world without end. Amen.</p>
 
-Leader: Glory be to the Father, and to the Son, and to the Holy Spirit:
-Response: as it was in the beginning, is now, and ever shall be, world without end. Amen.
-
-##Hymn
-Lord, who throughout these forty days, for us did fast and pray,
+<h3>Hymn</h3>
+<p>Lord, who throughout these forty days, for us did fast and pray,
 Teach us with you to mourn our sins, and close by you to stay.
 As you with Satan did contend, and did the victory win,
 O give us strength in you to fight, in you to conquer sin.
@@ -49,11 +35,11 @@ To die to self, and always live by your most holy word.
 And through these days of penitence, and through your Passiontide,
 Forevermore, in life and death, O Lord, with us abide.
 Abide with us that when this life of suffering is past,
-An Easter of unending joy we may attain at last!
+An Easter of unending joy we may attain at last!</p>
 
-##Act of Contrition
-Leader: Let us acknowledge our sins, and seek the Lord’s pardon and peace.
-Together: I confess to almighty God
+<h3>Act of Contrition</h3>
+<p><b>Leader:</b> Let us acknowledge our sins, and seek the Lord’s pardon and peace.
+<b>Together:</b> I confess to almighty God
 and to you, my brothers and sisters,
 that I have greatly sinned,
 in my thoughts and in my words,
@@ -65,17 +51,17 @@ all the Angels and Saints,
 and you, my brothers and sisters,
 to pray for me to the Lord our God.
 
-Leader: Father of peace, we are joyful in your Word,
+<b>Leader:</b> Father of peace, we are joyful in your Word,
  your Son Jesus Christ, who reconciles us to you.
  Let us hasten toward Easter with the eagerness of faith and love.
  We ask this through our Lord Jesus Christ, your Son,
  who lives and reigns with you and the Holy Spirit,
  one God, for ever and ever.
-Together: Amen.
+<b>Together:</b> Amen.</p>
 
-#The Sunday Readings
-##A reading from the first Book of Samuel (1 Samuel 16:1b, 6-7, 10-13a)
-The LORD said to Samuel: “Fill your horn with oil, and be on your way. I am sending you to Jesse
+<h2>The Sunday Readings</h2>
+<h3>A reading from the first Book of Samuel (1 Samuel 16:1b, 6-7, 10-13a)</h3>
+<p>The LORD said to Samuel: “Fill your horn with oil, and be on your way. I am sending you to Jesse
 of Bethlehem, for I have chosen my king from among his sons.” As Jesse and his sons came to the
 sacrifice, Samuel looked at Eliab and thought, “Surely the LORD’s anointed is here before him.”
 But the LORD said to Samuel: “Do not judge from his appearance or from his lofty stature,
@@ -90,43 +76,47 @@ appearance. The LORD said, “There—anoint him, for this is the one!” Then S
 of oil in hand, anointed David in the presence of his brothers; and from that day on, the spirit of
 the LORD rushed upon David.
 
-The Word of the Lord.
-―Thanks be to God.
+<b>The Word of the Lord.</b>
+―Thanks be to God.</p>
 
-##Responsorial Psalm (Psalm 23:1-3a, 3b-4, 5, 6)
-Reader: The Lord is my shepherd; there is nothing I shall want.
-Together: The Lord is my shepherd; there is nothing I shall want.
-Reader: The LORD is my shepherd; I shall not want.
+<h3>Responsorial Psalm (Psalm 23:1-3a, 3b-4, 5, 6)</h3>
+<p><b>Reader:</b> The Lord is my shepherd; there is nothing I shall want.
+<b>Together:</p> The Lord is my shepherd; there is nothing I shall want.
+
+<b>Reader:</b> The LORD is my shepherd; I shall not want.
 beside restful waters he leads me; he refreshes my soul.
-Together: The Lord is my shepherd; there is nothing I shall want.
-Reader: He guides me in right paths for his name’s sake.
+<b>Together:</p> The Lord is my shepherd; there is nothing I shall want.
+
+<b>Reader:</b> He guides me in right paths for his name’s sake.
 Even though I walk in the dark valley I fear no evil;
 for you are at my side with your rod and your staff that give me courage.
-Together: The Lord is my shepherd; there is nothing I shall want.
-Reader: You spread the table before me in the sight of my foes;
-you anoint my head with oil; my cup overflows.
-Together: The Lord is my shepherd; there is nothing I shall want.
-Reader: Only goodness and kindness follow me all the days of my life;
-and I shall dwell in the house of the LORD for years to come.
-Together: The Lord is my shepherd; there is nothing I shall want.
+<b>Together:</p> The Lord is my shepherd; there is nothing I shall want.
 
-##A Reading from the Letter of Saint Paul to the Ephesians (Ephesians 5:8-14)
-Brothers and sisters: You were once darkness, but now you are light in the Lord. Live as children
+<b>Reader:</b> You spread the table before me in the sight of my foes;
+you anoint my head with oil; my cup overflows.
+<b>Together:</p> The Lord is my shepherd; there is nothing I shall want.
+
+<b>Reader:</b> Only goodness and kindness follow me all the days of my life;
+and I shall dwell in the house of the LORD for years to come.
+<b>Together:</p> The Lord is my shepherd; there is nothing I shall want.</p>
+
+<h3>A Reading from the Letter of Saint Paul to the Ephesians (Ephesians 5:8-14)</h3>
+<p>Brothers and sisters: You were once darkness, but now you are light in the Lord. Live as children
 of light, for light produces every kind of goodness and righteousness and truth. Try to learn what
 is pleasing to the Lord. Take no part in the fruitless works of darkness; rather expose them, for it
 is shameful even to mention the things done by them in secret; but everything exposed by the
 light becomes visible, for everything that becomes visible is light. Therefore, it says: “Awake, O
 sleeper, and arise from the dead, and Christ will give you light.”
 
-The word of the Lord.
-―Thanks be to God.
+<b>The word of the Lord.</b>
+―Thanks be to God.</p>
 
-##Gospel Verse (John 8:12)
-Reader: I am the light of the world, says the Lord;
-Together: whoever follows me will have the light of life.
+<h3>Gospel Verse (John 8:12)</h3>
+<p><b>Reader:</b> I am the light of the world, says the Lord;
+<b>Together:</p> whoever follows me will have the light of life.</p>
 
-##A reading from the holy Gospel according to John (John 9:1-41)
-As Jesus passed by he saw a man blind from birth. His disciples asked him, “Rabbi, who sinned,
+<h3>A reading from the holy Gospel according to John (John 9:1-41)</h3>
+<p>As Jesus passed by he saw a man blind from birth. His disciples asked him, “Rabbi, who sinned,
 this man or his parents, that he was born blind?” Jesus answered, “Neither he nor his parents
 sinned; it is so that the works of God might be made visible through him. We have to do the works
 of the one who sent me while it is day. Night is coming when no one can work. While I am in the
@@ -174,66 +164,68 @@ him heard this and said to him, “Surely we are not also blind, are we?” Jesu
 were blind, you would have no sin; but now you are saying, ‘We see,’ so your sin remains.”
 
 The Gospel of the Lord.
-―Praise to you, Lord Jesus Christ
+―Praise to you, Lord Jesus Christ</p>
 
-##For reflection:
+<blockquote>
+<p>For reflection:
 1. What does it mean that the Lord “looks into the heart” when he looks at us?
 2. How might I live this week as a better example of a “child of the light”?
-3. What does Jesus mean when he says that he came into the world “so that those who do not see might see, and those who do see might become blind”?
+3. What does Jesus mean when he says that he came into the world “so that those who do not see might see, and those who do see might become blind”?</p>
+</blockquote>
 
-##RESPONSE TO THE WORD
-Leader: Christ, Son of the living God, have mercy on us.
+<h2>Response to the Word</h2>
+<p><b>Leader:</b> Christ, Son of the living God, have mercy on us.
 Response: Christ, Son of the living God, have mercy on us.
 
-Leader: You were wounded for our offenses,
+<b>Leader:</b> You were wounded for our offenses,
 Response: have mercy on us.
 
-Leader: Glory be to the Father, and to the Son, and to the Holy Spirit.
-Response: Christ, Son of the living God, have mercy on us.
+<b>Leader:</b> Glory be to the Father, and to the Son, and to the Holy Spirit.
+Response: Christ, Son of the living God, have mercy on us.</p>
 
-##PRAYER OF THE FAITHFUL
-Leader: Let us give glory to God, whose kindness knows no limit.
+<h2>Prayer of the Faithful</h2>
+</p><b>Leader:</b> Let us give glory to God, whose kindness knows no limit.
 Through Jesus Christ, who lives for ever to intercede for us, let us pray:
 Response: Kindle in our hearts the fire of your love.
 
-Leader: God of mercy, let today be a day rich in good works,
+<b>Leader:</b> God of mercy, let today be a day rich in good works,
 a day of generosity to all we meet.
 Response: Kindle in our hearts the fire of your love.
 
-Leader: From the waters of the flood you saved Noah through the ark,
+<b>Leader:</b> From the waters of the flood you saved Noah through the ark,
 from the waters of baptism raise up to new life those under instruction.
 Response: Kindle in our hearts the fire of your love.
 
-Leader: May we live not by bread only, but by every word falling from your lips.
+<b>Leader:</b> May we live not by bread only, but by every word falling from your lips.
 Response: Kindle in our hearts the fire of your love.
 
-Leader: Help us to do away with all dissension,
+<b>Leader:</b> Help us to do away with all dissension,
 so that we may rejoice in your gifts of peace and love.
 Response: Kindle in our hearts the fire of your love.
 
-Leader: Heal those who are sick, and keep safe those who are well.
+<b>Leader:</b> Heal those who are sick, and keep safe those who are well.
 Response: Kindle in our hearts the fire of your love.
 
-Leader: Strengthen those who care for the sick.
+<b>Leader:</b> Strengthen those who care for the sick.
 Response: Kindle in our hearts the fire of your love.
 
-Leader: Give hope to those whose livelihoods have been interrupted
+<b>Leader:</b> Give hope to those whose livelihoods have been interrupted
 by this health emergency.
 Response: Kindle in our hearts the fire of your love.
 
-Leader: Grant repose to all who have died in your friendship.
-Response: Kindle in our hearts the fire of your love.
+<b>Leader:</b> Grant repose to all who have died in your friendship.
+Response: Kindle in our hearts the fire of your love.</p>
 
-##The Lord's Prayer
-Leader: Gathering our prayers and praises into one,
+<h2>The Lord's Prayer</h2>
+<p><b>Leader:</b> Gathering our prayers and praises into one,
  let us offer the prayer which Christ himself taught us:
-Together: Our Father, who art in heaven …
+<b>Together:</p> Our Father, who art in heaven …</p>
 
-##Spiritual Communion
-Leader: You have given us bread from heaven.
+<h2>Spiritual Communion</h2>
+<p><b>Leader:</b> You have given us bread from heaven.
 Response: Containing in itself all delight.
 
-Together: My Jesus,
+<b>Together:</p> My Jesus,
 I believe that you are present
 in the Most Holy Sacrament of the Altar.
 I love you above all things,
@@ -244,14 +236,12 @@ I embrace you as if you were already there
 and unite myself wholly to you.
 Never permit me to be separated from you,
 my Lord and my God!
-Amen.
+Amen.</p>
 
-[image]
+<h2>Canticle of Praise</h2>
+<p><b>Canticle of Zechariah (Luke 1:68-79)</b>
 
-##Canticle of Praise
-Canticle of Zechariah (Luke 1:68-79)
-
-Together: ✠ Blessed be the Lord, the God of Israel;
+<b>Together:</p> ✠ Blessed be the Lord, the God of Israel;
 he has come to his people and set them free.
 He has raised up for us a mighty savior,
 born of the house of his servant David.
@@ -276,9 +266,9 @@ and to guide our feet into the way of peace.
 Glory be to the Father, and to the Son,
 and to the Holy Spirit:
 as it was in the beginning, is now, and ever shall be,
-world without end. Amen.
+world without end. Amen.</p>
 
-##Conclusion
-Leader: ✠ May the Lord bless us, protect us from all evil,
+<h2>Conclusion</h2>
+<p><b>Leader:</b> ✠ May the Lord bless us, protect us from all evil,
 and bring us to everlasting life.
-Together: Amen.
+<b>Together:</p> Amen.</p>
