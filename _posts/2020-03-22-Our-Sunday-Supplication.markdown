@@ -118,14 +118,12 @@ They ridiculed him and said, “You are that man’s disciple; we are disciples 
 <b>The Gospel of the Lord.</b><br>
 ―Praise to you, Lord Jesus Christ</p>
 
-<blockquote>
-<p><b>For Reflection:</b>
+<h3>For Reflection:</h3>
 <ol>
 <li>What does it mean that the Lord “looks into the heart” when he looks at us?</li>
 <li>How might I live this week as a better example of a “child of the light”?</li>
-<li>What does Jesus mean when he says that he came into the world “so that those who do not see might see, and those who do see might become blind”?<li>
-</ol></p>
-</blockquote>
+<li>What does Jesus mean when he says that he came into the world “so that those who do not see might see, and those who do see might become blind”?</li>
+</ol>
 
 <h2>Response to the Word</h2>
 <p><b>Leader:</b> Christ, Son of the living God, have mercy on us.<br>
@@ -168,7 +166,7 @@ by this health emergency.<br>
 
 <h2>The Lord's Prayer</h2>
 <p><b>Leader:</b> Gathering our prayers and praises into one,
- let us offer the prayer which Christ himself taught us:
+ let us offer the prayer which Christ himself taught us:<br>
 <b>Together:</b> Our Father, who art in heaven …</p>
 
 <h2>Spiritual Communion</h2>
@@ -189,7 +187,7 @@ my Lord and my God!<br>
 Amen.</p>
 
 <h2>Canticle of Praise</h2>
-<p><b>Canticle of Zechariah (Luke 1:68-79)</b>
+<p><b>Canticle of Zechariah (Luke 1:68-79)</b><br>
 
 <b>Together:</b> ✠ Blessed be the Lord, the God of Israel;<br>
 he has come to his people and set them free.<br>
