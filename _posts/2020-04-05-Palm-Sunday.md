@@ -13,9 +13,9 @@ image2: /assets/article_images/2020-04-05-Palm-Sunday/PalmSunday-mobile.jpg
 <h3>Palm Sunday</h3>
 
 <p>Holy Mass is at the very core of our worship as a Catholic community. Nothing can ever be substituted for the celebration of the Eucharist. But in this exceptional time of difficulty for our communities, our nation, and even the whole world, precautions have been made to limit the exponential growth of COVID-19, including the suspension of public Masses in the Archdiocese.<br>
-
+<br>
 So, if we cannot attend Mass on Sundays, how then are we, as a Church, to pray? This resource, <i>Our Sunday Supplication</i>, is a recommended prayer of the Archdiocese. Unlike Mass, this order of prayer can be offered by individuals and families, without the presence of a priest, and engages us in our Sunday celebration of the Word of God. We can pray this prayer in our homes—the “domestic churches” which help build up the Body of Christ on earth—and thus be connected to the entire Church at prayer<br>
-
+<br>
 During this time of prayer, we include the opportunity to make a Spiritual Communion, since we are presently unable to receive Holy Communion. Making a Spiritual Communion is a worthy practice, recommended by innumerable saints throughout the ages, which unites our whole selves to God and his Church. For, despite not being able to celebrate Mass together, this is certainly not a time to abandon the praise and supplication of almighty God, for he never abandons us! Now is the time to love and serve the Lord as best we can in our limited capacities.</p>
 
 <h2>Order of Prayer</h2>
@@ -24,7 +24,7 @@ During this time of prayer, we include the opportunity to make a Spiritual Commu
 <h3>Introduction</h3>
 <p><b>Leader:</b> God, ✠ come to my assistance.<br>
 <b>Response:</b> Lord, make haste to help me.<br>
-
+<br>
 <b>Leader:</b> Glory be to the Father, and to the Son, and to the Holy Spirit:<br>
 <b>Response:</b> as it was in the beginning, is now, and ever shall be, world without end. Amen.</p>
 
@@ -32,7 +32,7 @@ During this time of prayer, we include the opportunity to make a Spiritual Commu
 <h3>A reading from the holy Gospel according to Matthew (Matthew 21:1-11)</h3>
 
 <p>When Jesus and the disciples drew near Jerusalem and came to Bethphage on the Mount of Olives, Jesus sent two disciples, saying to them, “Go into the village opposite you, and immediately you will find an ass tethered, and a colt with her. Untie them and bring them here to me. And if anyone should say anything to you, reply, ‘The master has need of them.’ Then he will send them at once.” This happened so that what had been spoken through the prophet might be fulfilled: Say to daughter Zion, “Behold, your king comes to you, meek and riding on an ass, and on a colt, the foal of a beast of burden.” The disciples went and did as Jesus had ordered them. They brought the ass and the colt and laid their cloaks over them, and he sat upon them. The very large crowd spread their cloaks on the road, while others cut branches from the trees and strewed them on the road. The crowds preceding him and those following kept crying out and saying: “Hosanna to the Son of David; blessed is the he who comes in the name of the Lord; hosanna in the highest.” And when he entered Jerusalem the whole city was shaken and asked, “Who is this?” And the crowds replied, “This is Jesus the prophet, from Nazareth in Galilee.”
-
+<br>
 <b>The Gospel of the Lord.</b><br>
 ―Praise to you, Lord Jesus Christ</p>
 
@@ -41,12 +41,12 @@ During this time of prayer, we include the opportunity to make a Spiritual Commu
 To whom the lips of children made sweet hosannas ring.<br>
 You are the King of Israel, and David's royal Son,<br>
 Now in the Lord's Name coming, our King and Blessed One.<br>
-
+<br>
 All glory, laud, and honor to you, Redeemer King!<br>
 To whom the lips of children made sweet hosannas ring.<br>
 The company of angels are praising you on high;<br>
 And mortals, joined with all things created, make reply.<br>
-
+<br>
 All glory, laud, and honor to you, Redeemer King!<br>
 To whom the lips of children made sweet hosannas ring.<br>
 The people of the Hebrews with palms before you went:<br>
@@ -55,27 +55,27 @@ Our praise and prayers and anthems before you we present.</p>
 <h2>The Sunday Readings</h2>
 <h3>A reading from the Book of the prophet Isaiah (Isaiah 50:4-7)</h3>
 <p>The Lord GOD has given me a well-trained tongue, that I might know how to speak to the weary a word that will rouse them. Morning after morning he opens my ear that I may hear; and I have not rebelled, have not turned back. I gave my back to those who beat me, my cheeks to those who plucked my beard; my face I did not shield from buffets and spitting. The Lord GOD is my help, therefore I am not disgraced; I have set my face like flint, knowing that I shall not be put to shame.
-
+<br>
 <b>The Word of the Lord.</b><br>
 ―Thanks be to God.</p>
 
 <h3>Responsorial Psalm (Psalm 22:8-9, 17-18, 19-20, 23-24)</h3>
 <p><b>Reader:</b> My God, my God, why have you abandoned me?<br>
 <b>Together:</b> My God, my God, why have you abandoned me?<br>
-
+<br>
 <b>Reader:</b> All who see me scoff at me; they mock me with parted lips,<br>
 they wag their heads: "He relied on the LORD; let him deliver him,<br>
 let him rescue him, if he loves him."<br>
 <b>Together:</b> My God, my God, why have you abandoned me?<br>
-
+<br>
 <b>Reader:</b> Indeed, many dogs surround me, a pack of evildoers closes in upon me;<br>
 They have pierced my hands and my feet; I can count all my bones.<br>
 <b>Together:</b> My God, my God, why have you abandoned me?<br>
-
+<br>
 <b>Reader:</b> They divide my garments among them, and for my vesture they cast lots.<br>
 But you, O LORD, be not far from me; O my help, hasten to aid me.<br>
 <b>Together:</b> My God, my God, why have you abandoned me?<br>
-
+<br>
 <b>Reader:</b> I will proclaim your name to my brethren;<br>
 in the midst of the assembly I will praise you:<br>
 "You who fear the LORD, praise him;<br>
@@ -84,9 +84,8 @@ revere him, all you descendants of Israel!"<br>
 <b>Together:</b> My God, my God, why have you abandoned me?</p>
 
 <h3>A Reading from the Letter of Saint Paul to the Philippians (Philippians 2:6-11)</h3>
-<p>Christ Jesus, though he was in the form of God, did not regard equality with God
-something to be grasped. Rather, he emptied himself, taking the form of a slave, coming in human likeness; and found human in appearance, he humbled himself, becoming obedient to the point of death, even death on a cross. Because of this, God greatly exalted him and bestowed on him the name which is above every name, that at the name of Jesus every knee should bend, of those in heaven and on earth and under the earth, and every tongue confess that Jesus Christ is Lord, to the glory of God the Father.<br>
-
+<p>Christ Jesus, though he was in the form of God, did not regard equality with God something to be grasped. Rather, he emptied himself, taking the form of a slave, coming in human likeness; and found human in appearance, he humbled himself, becoming obedient to the point of death, even death on a cross. Because of this, God greatly exalted him and bestowed on him the name which is above every name, that at the name of Jesus every knee should bend, of those in heaven and on earth and under the earth, and every tongue confess that Jesus Christ is Lord, to the glory of God the Father.<br>
+<br>
 <b>The word of the Lord.</b><br>
 ―Thanks be to God.</p>
 
@@ -229,7 +228,7 @@ Then the soldiers of the governor took Jesus inside the praetorium and gathered 
 <b>N.</b>	Pilate said to them,<br>
 <b>V.</b>	“The guard is yours; go, secure it as best you can.”<br>
 <b>N.</b>	So they went and secured the tomb by fixing a seal to the stone and setting the guard.<br>
-
+<br>
 <b>The Gospel of the Lord.</b><br>
 ―Praise to you, Lord Jesus Christ</p>
 
@@ -243,10 +242,10 @@ Then the soldiers of the governor took Jesus inside the praetorium and gathered 
 <h2>Response to the Word</h2>
 <p><b>Leader:</b> By your own blood, Lord, you brought us back to God.<br>
 <b>Response:</b> By your own blood, Lord, you brought us back to God., have mercy on us.<br>
-
+<br>
 <b>Leader:</b> From every tribe, and tongue, and people and nation,<br>
 <b>Response:</b> you brought us back to God.<br>
-
+<br>
 <b>Leader:</b> Glory be to the Father, and to the Son, and to the Holy Spirit.<br>
 <b>Response:</b> By your own blood, Lord, you brought us back to God.</p>
 
@@ -254,35 +253,35 @@ Then the soldiers of the governor took Jesus inside the praetorium and gathered 
 <p><b>Leader:</b> As Christ entered Jerusalem he was greeted as King and Messiah.
 Let us adore him, and joyfully praise him:<br>
 <b>Response:</b> Blessed is he who comes in the name of the Lord.<br>
-
+<br>
 <b>Leader:</b> Hosanna to you, Son of David, King of the ages;
 hosanna to you, victor over death and the powers of darkness.<br>
 <b>Response:</b> Blessed is he who comes in the name of the Lord.<br>
-
+<br>
 <b>Leader:</b> You went up to Jerusalem to suffer and so enter into your glory;
 bring your Church to the paschal feast of heaven.<br>
 <b>Response:</b> Blessed is he who comes in the name of the Lord.<br>
-
+<br>
 <b>Leader:</b> You made the cross the tree of life; give its fruit to those reborn in baptism.<br>
 <b>Response:</b> Blessed is he who comes in the name of the Lord.<br>
-
+<br>
 <b>Leader:</b> Savior of mankind, you came to save sinners;
 bring into your kingdom all who have faith, hope and love.<br>
 <b>Response:</b> Blessed is he who comes in the name of the Lord.<br>
-
+<br>
 <b>Leader:</b> Heal those who are sick, and keep safe those who are well.<br>
 <b>Response:</b> Blessed is he who comes in the name of the Lord.<br>
-
+<br>
 <b>Leader:</b> Strengthen those who care for the sick.<br>
 <b>Response:</b> Blessed is he who comes in the name of the Lord.<br>
-
+<br>
 <b>Leader:</b> Give hope to those whose livelihoods have been interrupted
 by this health emergency.<br>
 <b>Response:</b> Blessed is he who comes in the name of the Lord.<br>
-
+<br>
 <b>Leader:</b> Grant repose to all who have died in your friendship.<br>
 <b>Response:</b> Blessed is he who comes in the name of the Lord.</p>
-
+<br>
 <h2>The Lord's Prayer</h2>
 <p><b>Leader:</b> Remember us, Lord, when you come to your kingdom and teach us how to pray:<br>
 <b>Together:</b> Our Father, who art in heaven …</p>
@@ -290,7 +289,7 @@ by this health emergency.<br>
 <h2>Spiritual Communion</h2>
 <p><b>Leader:</b> You have given us bread from heaven.<br>
 <b>Response:</b> Containing in itself all delight.<br>
-
+<br>
 <b>Together:</b> My Jesus,<br>
 I believe that you are present<br>
 in the Most Holy Sacrament of the Altar.<br>
@@ -311,10 +310,10 @@ Amen.</p>
 
 <b>Leader:</b> 	We adore you, O Christ, and we bless you,<br>
 <b>Response:</b> 	because by your holy Cross you have redeemed the world!
-
+<br>
 <b>Leader:</b> 	We adore you, O Christ, and we bless you,<br>
 <b>Response:</b> 	because by your holy Cross you have redeemed the world!
-
+<br>
 <b>Leader:</b> 	We adore you, O Christ, and we bless you,<br>
 <b>Response:</b> 	because by your holy Cross you have redeemed the world!</p>
 
