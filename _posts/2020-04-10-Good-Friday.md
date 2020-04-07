@@ -4,68 +4,35 @@ title:  "Easter Sunday"
 date:   2020-04-12 09:00:00
 categories: Triduum
 tags: featured
-image: /assets/article_images/2020-04-12-Easter-Sunday/Easter-Sunday.jpg
-image2: /assets/article_images/2020-04-12-Easter-Sunday/Easter-Sunday-mobile.jpg
+image: /assets/article_images/2020-04-10-Good-Friday/grant-whitty-ExV72ahe4sE-unsplash.jpg
+image2: /assets/article_images/2020-04-10-Good-Friday/grant-whitty-ExV72ahe4sE-unsplash-mobile.jpg
 ---
-<h1>Our Sunday Supplication</h1>
+<h1>Our Triduum Supplication</h1>
 
-<h2>Sunday, April 12, 2020</h2>
-<h3>Easter Sunday</h3>
+<h2>Friday, April 10, 2020</h2>
+<h3>Good Friday</h3>
 
-<p>Holy Mass is at the very core of our worship as a Catholic community. Nothing can ever be substituted for the celebration of the Eucharist. But in this exceptional time of difficulty for our communities, our nation, and even the whole world, this order of prayer can be offered by individuals and families and engages us in our Sunday celebration of the Word of God. We can pray this prayer in our homes—the “domestic churches” which help build up the Body of Christ on earth—and thus be connected to the entire Church at prayer.<br>
+<p>The Paschal Triduum, the solemn observance of the Church from Holy Thursday evening through Easter Sunday, is to the liturgical year what Sunday is to the week. During these days, the Church commemorates the saving mysteries of our Lord’s final moments of suffering and his first moments of resurrected glory. It has been said that only one man could turn three days of intrigue, betrayal and murder into the holiest week of the year. That man is Jesus Christ, the Son of God, our Lord!<br>
 <br>
-During this time of prayer, we include the opportunity to make a Spiritual Communion, since we are presently unable to receive Holy Communion. Making a Spiritual Communion is a worthy practice, recommended by innumerable saints throughout the ages, which unites our whole selves to God and his Church. For, despite not being able to celebrate Mass together, this is certainly not a time to abandon the praise and supplication of almighty God, for he never abandons us! Now is the time to love and serve the Lord as best we can in our limited capacities.</p>
+During this time of unprecedented suffering throughout the world, we need, as individuals and families, to attach ourselves to the sacramental life of the Church. We are able to do this, virtually, through the many generous live-streamed Masses and services being broadcast on television and the internet. We are able to do this, devotionally, through such powerful prayers as the Most Holy Rosary and the Chaplet of Divine Mercy. But we can also, truly and really, by praying over the Holy Scriptures and sacred texts of the very liturgies we are unable to celebrate in church. This supplication series amins at providing the “domestic church” an opportunity to use some of the sacred words used in the Church’s rites.<br>
+<br>
+Now is not a time to abandon the praise and supplication of almighty God, for he never abandons us! Now is the time to love and serve the Lord as best we can in our limited capacities.</p>
 
 <h2>Order of Prayer</h2>
-<p><b><i>Taken from the Mass and the Liturgy of the Hours</i></b></p>
+<p><b><i>Taken from the Celebration of the Lord’s Passion and Evening Prayer</i></b><br>
+<i>Before we pray together, it would be fitting to place a crucifix before us.</i></p>
 
 <h3>Introduction</h3>
 <p><b>Leader:</b> God, ✠ come to my assistance.<br>
 <b>Response:</b> Lord, make haste to help me.<br>
 <br>
 <b>Leader:</b> Glory be to the Father, and to the Son, and to the Holy Spirit:<br>
-<b>Response:</b> as it was in the beginning, is now, and ever shall be, world without end. Amen.</p>
-
-<h3>Hymn</h3>
-<p>Jesus Christ is risen today, Alleluia!<br>
-Our triumphant holy day, Alleluia!<br>
-Who did once upon the cross, Alleluia!<br>
-Suffer to redeem our loss. Alleluia!<br>
+<b>Response:</b> as it was in the beginning, is now, and ever shall be, world without end. Amen.<br>
 <br>
-Hymns of praise then let us sing, Alleluia!<br>
-Unto Christ, our heavenly King, Alleluia!<br>
-Who endured the cross and grave, Alleluia!<br>
-Sinners to redeem and save. Alleluia!<br>
-<br>
-But the pains which he endured, Alleluia!<br>
-Our salvation have procured; Alleluia!<br>
-Now he reigns above as King, Alleluia!<br>
-Where the angels ever sing. Alleluia! <br>
-<br>
-Sing we to our God above, Alleluia!<br>
-Praise eternal as his love, Alleluia!<br>
-Praise him, all ye heavenly host, Alleluia!<br>
-Father, Son, and Holy Ghost. Alleluia!</p>
+<i>All pause in silence, taking a brief moment to consider the amazing love which Jesus showed humanity by his death on the cross.</i></p>
 
-<h3>Act of Contrition</h3>
-<p><b>Leader:</b> Let us acknowledge our sins, and seek the Lord’s pardon and peace.<br>
-<b>Together:</b> I confess to almighty God<br>
-and to you, my brothers and sisters,<br>
-that I have greatly sinned,<br>
-in my thoughts and in my words,<br>
-in what I have done and in what I have failed to do,<br>
-through my fault, through my fault,<br>
-through my most grievous fault;<br>
-therefore I ask blessed Mary ever-Virgin,<br>
-all the Angels and Saints,<br>
-and you, my brothers and sisters,<br>
-to pray for me to the Lord our God.<br>
-
-<b>Leader:</b> God our Father, by raising Christ your Son you conquered the power of death and opened for us the way to eternal life. Let our celebration today raise us up and renew our lives by the Spirit that is within us. Grant this through our Lord Jesus Christ, your Son, who lives and reigns with you and the Holy Spirit, one God, for ever and ever.<br>
-<b>Together:</b> Amen.</p>
-
-<h2>The Sunday Readings</h2>
-<h3>A reading from the Acts of the Apostles (Acts 10:34a, 37-43)</h3>
+<h2>The Word of the Lord</h2>
+<h3>A reading from the Book of the Prophet Isaiah (Isaiah 52:13-53:12)</h3>
 <p>Peter proceeded to speak and said: “You know what has happened all over Judea, beginning in Galilee after the baptism that John preached, how God anointed Jesus of Nazareth with the Holy Spirit and power. He went about doing good and healing all those oppressed by the devil, for God was with him. We are witnesses of all that he did both in the country of the Jews and in Jerusalem. They put him to death by hanging him on a tree. This man God raised on the third day and granted that he be visible, not to all the people, but to us, the witnesses chosen by God in advance, who ate and drank with him after he rose from the dead. He commissioned us to preach to the people and testify that he is the one appointed by God as judge of the living and the dead. To him all the prophets bear witness, that everyone who believes in him will receive forgiveness of sins through his name.”<br>
 <br>
 <b>The Word of the Lord.</b><br>
@@ -144,26 +111,26 @@ Amen. Alleluia.</p>
 <b>Leader:</b> Lord Jesus, light shining in the darkness, you lead your people into life, and
 give our mortal nature the gift of holiness; may we spend this day in praise of your glory.<br>
 <b>Response:</b> Christ our life, save us.<br>
-<br>
+<br><br><br>
 <b>Leader:</b> Lord, you walked the way of suffering and crucifixion: may we suffer and
  		die with you, and rise again to share your glory.<br>
-<b>Response:</b> Christ our life, save us.<br>
-<br>
+<b>Response:</b> Christ our life, save us.</p>
+<br><br>
 <p><b>Leader:</b> Son of the Father, our master and our brother, you have made us a kingdom of priests for our God; may we offer you our joyful sacrifice of praise.<br>
 <b>Response:</b> Christ our life, save us.<br>
 <br>
 <b>Leader:</b> King of glory, we look forward to the great day of your coming in splendor,
 that we may see you face to face, and be transformed in your likeness.<br>
 <b>Response:</b> Christ our life, save us.<br>
-<br>
+<br><br>
 <b>Leader:</b> Sanctify all who suffer from the present pandemic, and draw us all closer to
 you in this time of suffering.<br>
 <b>Response:</b> Christ our life, save us.<br>
 <br>
 <b>Leader:</b> Author of life, remember those who have passed from this world; grant
 them the glory of your risen life.<br>
-<b>Response:</b> Christ our life, save us.</p>
-
+<b>Response:</b> Christ our life, save us.<br>
+<br>
 <h2>The Lord's Prayer</h2>
 <p><b>Leader:</b> Remember us, Lord, when you come to your kingdom and teach us how to pray:<br>
 <b>Together:</b> Our Father, who art in heaven …</p>
