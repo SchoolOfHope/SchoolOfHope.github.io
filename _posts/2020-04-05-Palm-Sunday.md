@@ -322,4 +322,4 @@ Amen.</p>
 and bring us to everlasting life.<br>
 <b>Together:</b> Amen.</p>
 
-<img src="/assets/images/KCKS_logo.jpg">
+<img src="/assets/images/ArchCrest.jpg">

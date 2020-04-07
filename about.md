@@ -4,14 +4,8 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+<img src="/assets/images/ArchCrest.jpg">
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+**Our Sunday Supplication** is a resource of the Archdiocese of the Kansas City in Kansas intended to help the faithful to pray at home while public Masses have been suspended. [St. Michael the Archangel](https://stmichaelcp.org/our-sunday-supplication) in Leawood, KS has an extensive list of resources and video guides for Our Sunday Supplication.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+This site is a supplement to those resources primarily designed for those who prefer to follow along on their mobile device.

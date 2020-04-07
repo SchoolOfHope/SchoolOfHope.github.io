@@ -10,11 +10,11 @@ description: > # this means to ignore newlines until "email:"
 
 email: pcallah1@emporia.edu
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/chalice.jpg"
 float_logo: false # true, false (default)
 
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/ArchCrest.jpg"
 
 name: 'Patrick Callahan'
 author: 'Patrick Callahan'
