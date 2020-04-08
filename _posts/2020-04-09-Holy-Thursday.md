@@ -117,7 +117,7 @@ Peter said to him, “You will never wash my feet.” Jesus answered him, “Unl
 <p><b>Together:</b> Where true charity is dwelling, God is present there.<br>
 <b>Leader:</b> By the love of Christ we have been brought together:<br>
 <b>Response:</b> let us find in him our gladness and our pleasure;<br>
-<b>Leader:<b> may we love him and revere him, God the living,<br>
+<b>Leader:</b> may we love him and revere him, God the living,<br>
 <b>Response:</b> and in love respect each other with sincere hearts.<br>
 <br>
 <b>Together:</b> Where true charity is dwelling, God is present there.<br>
@@ -204,6 +204,6 @@ And the Spirit, God proceeding from them Each eternally,<br>
 Be salvation, honor, blessing, might and endless majesty.</p>
 
 <h2>Conclusion</h2>
-<p>Tonight, we conclude in silence, as the Church has now begun her solemn watch with the Lord, an unbroken time of prayer, which continues through these next days.</p>
+<p><i>Tonight, we conclude in silence, as the Church has now begun her solemn watch with the Lord, an unbroken time of prayer, which continues through these next days.</i></p>
 
 <img src="/assets/images/ArchCrest.jpg">
