@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Easter Sunday"
-date:   2020-04-12 09:00:00
+title:  "Good Friday"
+date:   2020-04-10 09:00:00
 categories: Triduum
 tags: featured
 image: /assets/article_images/2020-04-10-Good-Friday/grant-whitty-ExV72ahe4sE-unsplash.jpg
