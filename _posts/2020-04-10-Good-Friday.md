@@ -33,103 +33,213 @@ Now is not a time to abandon the praise and supplication of almighty God, for he
 
 <h2>The Word of the Lord</h2>
 <h3>A reading from the Book of the Prophet Isaiah (Isaiah 52:13-53:12)</h3>
-<p>Peter proceeded to speak and said: “You know what has happened all over Judea, beginning in Galilee after the baptism that John preached, how God anointed Jesus of Nazareth with the Holy Spirit and power. He went about doing good and healing all those oppressed by the devil, for God was with him. We are witnesses of all that he did both in the country of the Jews and in Jerusalem. They put him to death by hanging him on a tree. This man God raised on the third day and granted that he be visible, not to all the people, but to us, the witnesses chosen by God in advance, who ate and drank with him after he rose from the dead. He commissioned us to preach to the people and testify that he is the one appointed by God as judge of the living and the dead. To him all the prophets bear witness, that everyone who believes in him will receive forgiveness of sins through his name.”<br>
+<p>See, my servant shall prosper, he shall be raised high and greatly exalted. Even as many were amazed at him—so marred was his look beyond human semblance and his appearance beyond that of the sons of man—so shall he startle many nations, because of him kings shall stand speechless; for those who have not been told shall see, those who have not heard shall ponder it.<br>
+<br>
+Who would believe what we have heard? To whom has the arm of the LORD been revealed? He grew up like a sapling before him, like a shoot from the parched earth; there was in him no stately bearing to make us look at him, nor appearance that would attract us to him. He was spurned and avoided by people, a man of suffering, accustomed to infirmity, one of those from whom people hide their faces, spurned, and we held him in no esteem.<br>
+<br>
+Yet it was our infirmities that he bore, our sufferings that he endured, while we thought of him as stricken, as one smitten by God and afflicted. But he was pierced for our offenses, crushed for our sins; upon him was the chastisement that makes us whole, by his stripes we were healed. We had all gone astray like sheep, each following his own way; but the LORD laid upon him the guilt of us all.<br>
+<br>
+Though he was harshly treated, he submitted and opened not his mouth; like a lamb led to the slaughter or a sheep before the shearers, he was silent and opened not his mouth. Oppressed and condemned, he was taken away, and who would have thought any more of his destiny? When he was cut off from the land of the living, and smitten for the sin of his people, a grave was assigned him among the wicked and a burial place with evildoers, though he had done no wrong nor spoken any falsehood. But the LORD was pleased to crush him in infirmity.<br>
+<br>
+If he gives his life as an offering for sin, he shall see his descendants in a long life, and the will of the LORD shall be accomplished through him.<br>
+Because of his affliction he shall see the light in fullness of days; through his suffering, my servant shall justify many, and their guilt he shall bear. Therefore I will give him his portion among the great, and he shall divide the spoils with the mighty, because he surrendered himself to death and was counted among the wicked; and he shall take away the sins of many, and win pardon for their offenses.<br>
 <br>
 <b>The Word of the Lord.</b><br>
 ―Thanks be to God.</p>
 
-<h3>Responsorial Psalm (Psalm 118:1-2, 16-17, 22-23)</h3>
-<p><b>Reader:</b>	This is the day the Lord has made; let us rejoice and be glad.<br>
-<b>Together:</b>	This is the day the Lord has made; let us rejoice and be glad.<br>
+<h3>Responsorial Psalm (Psalm 116:12-13, 15-16bc, 17-18))</h3>
+<p><b>Reader:</b>	Father, into your hands I commend my spirit.<br>
+<b>Together:</b>	Father, into your hands I commend my spirit.<br>
 <br>
-<b>Reader:</b>	Give thanks to the LORD, for he is good, for his mercy endures forever.
-Let the house of Israel say, “His mercy endures forever.”<br>
-<b>Together:</b>	This is the day the Lord has made; let us rejoice and be glad.<br>
+<b>Reader:</b>	In you, O LORD, I take refuge; let me never be put to shame.<br>
+In your justice rescue me.<br>
+Into your hands I commend my spirit;<br>
+you will redeem me, O LORD, O faithful God.<br>
+<b>Together:</b>	Father, into your hands I commend my spirit.<br>
 <br>
-<b>Reader:</b>	“The right hand of the LORD has struck with power;<br>
-the right hand of the LORD is exalted.<br>
-I shall not die, but live, and declare the works of the LORD.”<br>
-<b>Together:</b>	This is the day the Lord has made; let us rejoice and be glad.<br>
+<b>Reader:</b>	For all my foes I am an object of reproach,<br>
+a laughingstock to my neighbors, and a dread to my friends;<br>
+they who see me abroad flee from me.<br>
+I am forgotten like the unremembered dead;<br>
+I am like a dish that is broken.<br>
+<b>Together:</b>	Father, into your hands I commend my spirit.<br>
 <br>
-<b>Reader:</b>	The stone which the builders rejected has become the cornerstone.<br>
-By the LORD has this been done; it is wonderful in our eyes.<br>
-<b>Together:</b>	This is the day the Lord has made; let us rejoice and be glad.</p>
+<b>Reader:</b>	But my trust is in you, O LORD;<br>
+I say, “You are my God.<br>
+In your hands is my destiny; rescue me<br>
+from the clutches of my enemies and my persecutors.”<br>
+<b>Together:</b>	Father, into your hands I commend my spirit.<br>
+<br>
+<b>Reader:</b>	Let your face shine upon your servant;<br>
+save me in your kindness.<br>
+Take courage and be stouthearted,<br>
+all you who hope in the LORD.<br>
+<b>Together:</b>	Father, into your hands I commend my spirit.</p>
 
-<h3>A Reading from the Letter of Saint Paul to the Colossians (Colossians 3:1-4)</h3>
-<p>Brothers and sisters: If then you were raised with Christ, seek what is above, where Christ is seated at the right hand of God. Think of what is above, not of what is on earth. For you have died, and your life is hidden with Christ in God. When Christ your life appears, then you too will appear with him in glory.<br>
+<h3>A Reading from the Letter to the Hebrews (Hebrews 4:14-16; 5:7-9)</h3>
+<p>Brothers and sisters: Since we have a great high priest who has passed through the heavens, Jesus, the Son of God, let us hold fast to our confession. For we do not have a high priest who is unable to sympathize with our weaknesses, but one who has similarly been tested in every way, yet without sin. So let us confidently approach the throne of grace to receive mercy and to find grace for timely help.<br>
+<br>
+In the days when Christ was in the flesh, he offered prayers and supplications with loud cries and tears to the one who was able to save him from death, and he was heard because of his reverence. Son though he was, he learned obedience from what he suffered; and when he was made perfect, he became the source of eternal salvation for all who obey him.<br>
 <br>
 <b>The word of the Lord.</b><br>
 ―Thanks be to God.</p>
 
-<h3>Sequence</h3>
-<p>Christians, to the Paschal victim<br>
-Offer your thankful praises!<br>
-A Lamb the sheep redeems:<br>
-Christ, who only is sinless,<br>
-Reconciles sinners to the Father.<br>
-Death and life have contended in that combat stupendous:<br>
-The Prince of life, who died, reigns immortal.<br>
-<br>
-Speak, Mary, declaring<br>
-What you saw, wayfaring:<br>
-“The tomb of Christ, who is living,<br>
-The glory of Jesus’ resurrection;<br>
-Bright angels attesting,<br>
-The shroud and napkin resting.<br>
-Yes, Christ my hope is arisen;<br>
-To Galilee he will go before you.”<br>
-<br>
-Christ indeed from death is risen, our new life obtaining;<br>
-Have mercy, victor King, ever reigning!<br>
-Amen. Alleluia.</p>
+<h3>Gospel Verse (John 11:25a-26)</h3>
+<p><b>Reader:</b> Christ became obedient to the point of death, even death on a cross.<br>
+<b>Together:</b> Because of this, God greatly exalted him and bestowed on him the name which is above every other name.</p>
 
-<h3>Gospel Verse (cf. 1 Cor 5:7b-82)</h3>
-<p><b>Reader:</b> Alleluia. Christ, our paschal lamb, has been sacrificed;<br>
-<b>Together:</b> let us then feast with joy in the Lord. Alleluia.</p>
-
-<h3>A reading from the holy Gospel according to John (John 20:1-9)</h3>
-<p>On the first day of the week, Mary of Magdala came to the tomb early in the morning, while it was still dark, and saw the stone removed from the tomb. So she ran and went to Simon Peter and to the other disciple whom Jesus loved, and told them, “They have taken the Lord from the tomb, and we don’t know where they put him.” So Peter and the other disciple went out and came to the tomb. They both ran, but the other disciple ran faster than Peter and arrived at the tomb first; he bent down and saw the burial cloths there, but did not go in. When Simon Peter arrived after him, he went into the tomb and saw the burial cloths there, and the cloth that had covered his head, not with the burial cloths but rolled up in a separate place. Then the other disciple also went in, the one who had arrived at the tomb first, and he saw and believed. For they did not yet understand the Scripture that he had to rise from the dead.<br>
+<h3>The Passion Reading (Jn 18:1-19:42)</h3>
+<p>Narrator (<b>N</b>); Jesus (<b>✠</b>); Voice (<b>V</b>); Crowd (<b>C</b>)<br>
+<br>
+<b>N.</b> The Passion of our Lord Jesus Christ according to John.<br>
+<b>N.</b> Jesus went out with his disciples across the Kidron valley to where there was a garden, into which he and his disciples entered. Judas his betrayer also knew the place, because Jesus had often met there with his disciples. So Judas got a band of soldiers and guards from the chief priests and the Pharisees and went there with lanterns, torches, and weapons. Jesus, knowing everything that was going to happen to him, went out and said to them,<br>
+<b>✠.</b> “Whom are you looking for?”<br>
+<b>N.</b> They answered him,<br>
+<b>C.</b> “Jesus the Nazorean.”<br>
+<b>N.</b> He said to them,<br>
+<b>✠.</b> “I AM”<br>
+<b>N.</b> Judas, his betrayer, was also with them. When he said to them, “I AM,” they turned away and fell to the ground. So he again asked them,<br>
+<b>✠.</b> “Whom are you looking for?”<br>
+<b>N.</b> They said,<br>
+<b>C.</b> “Jesus the Nazorean.”<br>
+<b>N.</b> Jesus answered,<br>
+<b>✠.</b> “I told you that I AM. So if you are looking for me, let these men go.”<br>
+<b>N.</b> This was to fulfill what he had said, “I have not lost any of those you gave me.” Then Simon Peter, who had a sword, drew it, struck the high priest’s slave, and cut off his right ear. The slave’s name was Malchus. Jesus said to Peter,<br>
+<b>✠.</b> “Put your sword into its scabbard. Shall I not drink the cup that the Father gave me?”<br>
+<b>N.</b> So the band of soldiers, the tribune, and the Jewish guards seized Jesus, bound him, and brought him to Annas first. He was the father-in-law of Caiaphas, who was high priest that year. It was Caiaphas who had counseled the Jews that it was better that one man should die rather than the people. Simon Peter and another disciple followed Jesus. Now the other disciple was known to the high priest, and he entered the courtyard of the high priest with Jesus. But Peter stood at the gate outside. So the other disciple, the acquaintance of the high priest, went out and spoke to the gatekeeper and brought Peter in. Then the maid who was the gatekeeper said to Peter,<br>
+<b>C.</b> “You are not one of this man’s disciples, are you?”<br>
+<b>N.</b> He said,<br>
+<b>V.</b> “I am not.”<br>
+<b>N.</b> Now the slaves and the guards were standing around a charcoal fire that they had made, because it was cold, and were warming themselves. Peter was also standing there keeping warm. The high priest questioned Jesus about his disciples and about his doctrine. Jesus answered him,<br>
+<b>✠.</b> “I have spoken publicly to the world. I have always taught in a synagogue or in the temple area where all the Jews gather, and in secret I have said nothing. Why ask me? Ask those who heard me what I said to them. They know what I said.”<br>
+<b>N.</b> When he had said this, one of the temple guards standing there struck Jesus and said,<br>
+<b>V.</b> “Is this the way you answer the high priest?”<br>
+<b>N.</b> Jesus answered him,<br>
+<b>✠.</b> “If I have spoken wrongly, testify to the wrong; but if I have spoken rightly, why do you strike me?”<br>
+<b>N.</b> Then Annas sent him bound to Caiaphas the high priest. Now Simon Peter was standing there keeping warm. And they said to him,<br>
+<b>C.</b> “You are not one of his disciples, are you?”<br>
+<b>N.</b> He denied it and said,<br>
+<b>V.</b> “I am not.”<br>
+<b>N.</b> One of the slaves of the high priest, a relative of the one whose ear Peter had cut off, said,<br>
+<b>C.</b> “Didn’t I see you in the garden with him?”<br>
+<b>N.</b> Again Peter denied it. And immediately the cock crowed. Then they brought Jesus from Caiaphas to the praetorium. It was morning. And they themselves did not enter the praetorium, in order not to be defiled so that they could eat the Passover. So Pilate came out to them and said,<br>
+<b>V.</b> “What charge do you bring against this man?”<br>
+<b>N.</b> They answered and said to him,<br>
+<b>C.</b> “If he were not a criminal, we would not have handed him over to you.”<br>
+<b>N.</b> At this, Pilate said to them,<br>
+<b>V.</b> “Take him yourselves, and judge him according to your law.”<br>
+<b>N.</b> The Jews answered him,<br>
+<b>C.</b> “We do not have the right to execute anyone,”<br>
+<b>N.</b> In order that the word of Jesus might be fulfilled that he said indicating the kind of death he would die. So Pilate went back into the praetorium and summoned Jesus and said to him,<br>
+<b>V.</b> “Are you the King of the Jews?”<br>
+<b>N.</b> Jesus answered,<br>
+<b>✠.</b> “Do you say this on your own or have others told you about me?”<br>
+<b>N.</b> Pilate answered,<br>
+<b>V.</b> “I am not a Jew, am I? Your own nation and the chief priests handed you over to me. What have you done?”<br>
+<b>N.</b> Jesus answered,<br>
+<b>✠.</b> “My kingdom does not belong to this world. If my kingdom did belong to this world, my attendants would be fighting to keep me from being handed over to the Jews. But as it is, my kingdom is not here.”<br>
+<b>N.</b> So Pilate said to him,<br>
+<b>V.</b> “Then you are a king?”<br>
+<b>N.</b> Jesus answered,<br>
+<b>✠.</b> “You say I am a king. For this I was born and for this I came into the world, to testify to the truth. Everyone who belongs to the truth listens to my voice.”<br>
+<b>N.</b> Pilate said to him,<br>
+<b>V.</b> “What is truth?”<br>
+<b>N.</b> When he had said this, he again went out to the Jews and said to them,<br>
+<b>V.</b> “I find no guilt in him. But you have a custom that I release one prisoner to you at Passover. Do you want me to release to you the King of the Jews?”<br>
+<b>N.</b> They cried out again,<br>
+<b>C.</b> “Not this one but Barabbas!”<br>
+<b>N.</b> Now Barabbas was a revolutionary.<br>
+Then Pilate took Jesus and had him scourged. And the soldiers wove a crown out of thorns and placed it on his head, and clothed him in a purple cloak, and they came to him and said,<br>
+<b>C.</b> “Hail, King of the Jews!”<br>
+<b>N.</b> And they struck him repeatedly. Once more Pilate went out and said to them,<br>
+<b>V.</b> “Look, I am bringing him out to you, so that you may know that I find no guilt in him.”<br>
+<b>N.</b> So Jesus came out, wearing the crown of thorns and the purple cloak. And Pilate said to them,<br>
+<b>V.</b> “Behold, the man!”<br>
+<b>N.</b> When the chief priests and the guards saw him they cried out,<br>
+<b>C.</b> “Crucify him, crucify him!”<br>
+<b>N.</b> Pilate said to them,<br>
+<b>V.</b> “Take him yourselves and crucify him. I find no guilt in him.”<br>
+<b>N.</b> The Jews answered,<br>
+<b>C.</b> “We have a law, and according to that law he ought to die, because he made himself the Son of God.”<br>
+<b>N.</b> Now when Pilate heard this statement, he became even more afraid, and went back into the praetorium and said to Jesus,<br>
+<b>V.</b> “Where are you from?”<br>
+<b>N.</b> Jesus did not answer him. So Pilate said to him,<br>
+<b>V.</b> “Do you not speak to me? Do you not know that I have power to release you and I have power to crucify you?”<br>
+<b>N.</b> Jesus answered him,<br>
+<b>✠.</b> “You would have no power over me if it had not been given to you from above. For this reason the one who handed me over to you has the greater sin.”<br>
+<b>N.</b> Consequently, Pilate tried to release him; but the Jews cried out,<br>
+<b>C.</b> “If you release him, you are not a friend of Caesar. Everyone who makes himself a king opposes Caesar.”<br>
+<b>N.</b> When Pilate heard these words he brought Jesus out and seated him on the judge’s bench in the place called Stone Pavement, in Hebrew, Gabbatha. It was preparation day for Passover, and it was about noon. And he said to the Jews,<br>
+<b>V.</b> “Behold, your king!”<br>
+<b>N.</b> They cried out,<br>
+<b>C.</b> “Take him away, take him away! Crucify him!”<br>
+<b>N.</b> Pilate said to them,<br>
+<b>V.</b> “Shall I crucify your king?”<br>
+<b>N.</b> The chief priests answered,<br>
+<b>C.</b> “We have no king but Caesar.”<br>
+<b>N.</b> Then he handed him over to them to be crucified. So they took Jesus, and, carrying the cross himself, he went out to what is called the Place of the Skull, in Hebrew, Golgotha. There they crucified him, and with him two others, one on either side, with Jesus in the middle. Pilate also had an inscription written and put on the cross. It read, “Jesus the Nazorean, the King of the Jews.” Now many of the Jews read this inscription, because the place where Jesus was crucified was near the city; and it was written in Hebrew, Latin, and Greek. So the chief priests of the Jews said to Pilate,<br>
+<b>C.</b> “Do not write ‘The King of the Jews,’ but that he said, ‘I am the King of the Jews.’”<br>
+<b>N.</b> Pilate answered,<br>
+<b>V.</b> “What I have written, I have written.”<br>
+<b>N.</b> When the soldiers had crucified Jesus, they took his clothes and divided them into four shares, a share for each soldier. They also took his tunic, but the tunic was seamless, woven in one piece from the top down. So they said to one another,<br>
+<b>C.</b> “Let’s not tear it, but cast lots for it to see whose it will be,”<br>
+<b>N.</b> In order that the passage of Scripture might be fulfilled that says: They divided my garments among them, and for my vesture they cast lots. This is what the soldiers did. Standing by the cross of Jesus were his mother and his mother’s sister, Mary the wife of Clopas, and Mary of Magdala. When Jesus saw his mother and the disciple there whom he loved he said to his mother,<br>
+<b>✠.</b> “Woman, behold, your son.”<br>
+<b>N.</b> Then he said to the disciple,<br>
+<b>✠.</b> “Behold, your mother.<br>
+<b>N.</b> And from that hour the disciple took her into his home. After this, aware that everything was now finished, in order that the Scripture might be fulfilled, Jesus said,<br>
+<b>✠.</b> “I thirst.”<br>
+<b>N.</b> There was a vessel filled with common wine. So they put a sponge soaked in wine on a sprig of hyssop and put it up to his mouth. When Jesus had taken the wine, he said,<br>
+<b>✠.</b> “It is finished.”<br>
+<b>N.</b> And bowing his head, he handed over the spirit.<br>
+<br>
+<i>Here all pause for a short time.</i><br>
+<br>
+<b>N.</b> Now since it was preparation day, in order that the bodies might not remain on the cross on the sabbath, for the Sabbath day of that week was a solemn one, the Jews asked Pilate that their legs be broken and that they be taken down. So the soldiers came and broke the legs of the first and then of the other one who was crucified with Jesus. But when they came to Jesus and saw that he was already dead, they did not break his legs, but one soldier thrust his lance into his side, and immediately blood and water flowed out. An eyewitness has testified, and his testimony is true; he knows that he is speaking the truth, so that you also may come to believe. For this happened so that the Scripture passage might be fulfilled: Not a bone of it will be broken. And again another passage says: They will look upon him whom they have pierced. After this, Joseph of Arimathea, secretly a disciple of Jesus for fear of the Jews, asked Pilate if he could remove the body of Jesus. And Pilate permitted it. So he came and took his body. Nicodemus, the one who had first come to him at night, also came bringing a mixture of myrrh and aloes weighing about one hundred pounds. They took the body of Jesus and bound it with burial cloths along with the spices, according to the Jewish burial custom. Now in the place where he had been crucified there was a garden, and in the garden a new tomb, in which no one had yet been buried. So they laid Jesus there because of the Jewish preparation day; for the tomb was close by.<br>
 <br>
 <b>The Gospel of the Lord.</b><br>
 ―Praise to you, Lord Jesus Christ</p>
 
 <h3>For Reflection:</h3>
 <ol>
-<li>As we begin this Easter season, how can we better live, each and every day, in practical ways, our belief in the Resurrection of our blessed Lord?</li>
-<li>Who might we send greetings to on this festive day?</li>
-<li>Why do you think that Jesus did not appear to his enemies—those who had him put to death—in order to prove to them that he was truly the Son of God?</li>
+<li>Why did Jesus die for us?</li>
+<li>Because Jesus forgave even those who crucified him, how should we then treat others who have hurt us?</li>
+<li>How can we better carry our own crosses, day by day, from now on?</li>
 </ol>
 
 <h2>Response to the Word</h2>
-<p><b>Leader:</b> This is the day the Lord has made;<br>
-<b>Response:</b> let us rejoice and be glad, alleluia.</p>
+<p><b>Leader:</b> To you, O Lord, I make my prayer for mercy.<br>
+<b>Response:</b> To you, O Lord, I make my prayer for mercy.
+<br>
+<p><b>Leader:</b> Heal my soul, for I have sinned against you.<br>
+<b>Response:</b> I make my prayer for mercy.<br>
+<br>
+<p><b>Leader:</b> Glory to the Father, and to the Son, and to the Holy Spirit.<br>
+<b>Response:</b> To you, O Lord, I make my prayer for mercy.</p>
 
 <h2>Prayer of the Faithful</h2>
-<p><b>Leader:</b> Christ is the Lord of life, raised up by the Father; in his turn he will raise us up by his power. Let us pray to him, saying:<br>
-<b>Response:</b> Christ our life, save us.<br>
+<p><b>Leader:</b> The Lord Jesus sanctified his people with his blood. Let us cry out to him:<br>
+<b>Response:</b> Lord, have mercy on your people.<br>
 <br>
-<b>Leader:</b> Lord Jesus, light shining in the darkness, you lead your people into life, and
-give our mortal nature the gift of holiness; may we spend this day in praise of your glory.<br>
-<b>Response:</b> Christ our life, save us.<br>
-<br><br><br>
-<b>Leader:</b> Lord, you walked the way of suffering and crucifixion: may we suffer and
- 		die with you, and rise again to share your glory.<br>
-<b>Response:</b> Christ our life, save us.</p>
-<br><br>
-<p><b>Leader:</b> Son of the Father, our master and our brother, you have made us a kingdom of priests for our God; may we offer you our joyful sacrifice of praise.<br>
-<b>Response:</b> Christ our life, save us.<br>
+<b>Leader:</b> Loving, Redeemer, through your passion teach us self-denial, strengthen us against evil and adversity, and increase our hope, and so make us ready to celebrate your resurrection.<br>
+<b>Response:</b> Lord, have mercy on your people.<br>
 <br>
-<b>Leader:</b> King of glory, we look forward to the great day of your coming in splendor,
-that we may see you face to face, and be transformed in your likeness.<br>
-<b>Response:</b> Christ our life, save us.<br>
-<br><br>
+<b>Leader:</b> Grant that Christians, as your prophets, may make you known in every place, and bear witness to you with living faith and hope and love.<br>
+<b>Response:</b> Lord, have mercy on your people.</p>
+<br>
+<p><b>Leader:</b> Give your strength to all in distress, and help us to raise them up through our loving concern.<br>
+<b>Response:</b> Lord, have mercy on your people.<br>
+<br>
+<b>Leader:</b> Teach the faithful to see your passion in their sufferings, and show to others your power to save.<br>
+<b>Response:</b> Lord, have mercy on your people.<br>
+<br>
 <b>Leader:</b> Sanctify all who suffer from the present pandemic, and draw us all closer to
 you in this time of suffering.<br>
-<b>Response:</b> Christ our life, save us.<br>
+<b>Response:</b> Sanctify your people, redeemed by your blood.<br>
 <br>
 <b>Leader:</b> Author of life, remember those who have passed from this world; grant
 them the glory of your risen life.<br>
-<b>Response:</b> Christ our life, save us.<br>
+<b>Response:</b> Lord, have mercy on your people.<br>
 <br>
 <h2>The Lord's Prayer</h2>
 <p><b>Leader:</b> Remember us, Lord, when you come to your kingdom and teach us how to pray:<br>
@@ -154,39 +264,25 @@ Amen.</p>
 
 <img src="/assets/images/chalice.jpg">
 
-<h2>Canticle of Praise</h2>
-<p><b>Canticle of Zechariah (Luke 1:68-79)</b><br>
-
-<b>Together:</b> ✠ Blessed be the Lord, the God of Israel;<br>
-he has come to his people and set them free.<br>
-He has raised up for us a mighty savior,<br>
-born of the house of his servant David.<br>
-Through his holy prophets he promised of old<br>
-that he would save us from our enemies,<br>
-from the hands of all who hate us.<br>
-He promised to show mercy to our fathers<br>
-and to remember his holy covenant.<br>
-This was the oath he swore to our father Abraham:<br>
-to set us free from the hands of our enemies,<br>
-free to worship him without fear,<br>
-holy and righteous in his sight<br>
-all the days of our life.<br>
-You, my child, shall be called the prophet of the Most High;<br>
-for you will go before the Lord to prepare his way,<br>
-to give his people knowledge of salvation<br>
-by the forgiveness of their sins.<br>
-In the tender compassion of our God<br>
-the dawn from on high shall break upon us,<br>
-to shine on those who dwell in darkness and the shadow of death,<br>
-and to guide our feet into the way of peace.<br>
-Glory be to the Father, and to the Son,<br>
-and to the Holy Spirit:<br>
-as it was in the beginning, is now, and ever shall be,<br>
-world without end. Amen.</p>
+<h2>Canticle of Thanksgiving</h2>
+<p><b>Text by St. Bernard of Clairvaux</b><br>
+<br>
+O Sacred Head, surrounded by crown of piercing thorn!<br>
+O bleeding Head, so wounded, reviled and put to scorn!<br>
+The power of death comes o’er you, the glow of life decays,<br>
+Yet angel hosts adore you, and tremble as they gaze.<br>
+<br>
+In this, your bitter passion, Good Shepherd, think of me<br>
+With your most kind compassion, unworthy though I be:<br>
+Beneath your cross abiding, forever would I rest,<br>
+In your dear love confiding, and with your presence blest.<br>
+<br>
+What language shall I borrow to thank you, dearest friend,<br>
+For this, your dying sorrow, your mercy without end?<br>
+Lord, make me yours forever, a loyal servant true,<br>
+And let me never, never outlive my love for you.</p>
 
 <h2>Conclusion</h2>
-<p><b>Leader:</b> ✠ May the Lord bless us, protect us from all evil,
-and bring us to everlasting life.<br>
-<b>Together:</b> Amen.</p>
+<p><i>Tonight, we conclude in silence, as the Church continues her solemn watch with the Lord, an unbroken time of prayer, which continues through these next days.</i></p>
 
 <img src="/assets/images/ArchCrest.jpg">
