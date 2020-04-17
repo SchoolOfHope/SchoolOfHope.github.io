@@ -2,7 +2,7 @@
 layout: post
 title:  "Divine Mercy Sunday"
 date:   2020-04-19 09:00:00
-categories: Triduum
+categories: Sunday
 tags: featured
 image: /assets/article_images/2020-04-19-Divine-Mercy-Sunday/Divine-Mercy.jpg
 image2: /assets/article_images/2020-04-19-Divine-Mercy-Sunday/Divine-Mercy-mobile.jpg
