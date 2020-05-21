@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sixth Sunday of Easter"
+title:  "Ascension"
 date:   2020-05-17 09:00:00
 categories: Sunday
 tags: featured
@@ -9,8 +9,8 @@ image2: /assets/article_images/2020-04-26-Third-Sunday-Easter/scripture-mobile.j
 ---
 <h1>Our Sunday Supplication</h1>
 
-<h2>Sunday, May 17, 2020</h2>
-<h3>Sixth Sunday of Easter</h3>
+<h2>Sunday, May 23, 2020</h2>
+<h3>Feast of the Ascension</h3>
 
 <p>Holy Mass is at the very core of our worship as a Catholic community. Nothing can ever be substituted for the celebration of the Eucharist. But in this exceptional time of difficulty for our communities, our nation, and even the whole world, this order of prayer can be offered by individuals and families and engages us in our Sunday celebration of the Word of God. We can pray this prayer in our homes—the “domestic churches” which help build up the Body of Christ on earth—and thus be connected to the entire Church at prayer.<br>
 <br>
