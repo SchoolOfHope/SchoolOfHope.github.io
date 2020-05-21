@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ascension"
-date:   2020-05-17 09:00:00
+date:   2020-05-23 09:00:00
 categories: Sunday
 tags: featured
 image: /assets/article_images/2020-04-26-Third-Sunday-Easter/scripture.jpg
